@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291553195341",
+    "project_id": "ecommerceapp-8804b",
+    "storage_bucket": "ecommerceapp-8804b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291553195341:android:7f5c16fd9119bb410bb304",
+        "android_client_info": {
+          "package_name": "com.boss.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291553195341-6iaikjq6mtljelj8sv1ifs7pdt9gbndg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XSUjsVxo6trDClEgErL5fkUNKm3rZRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291553195341-6iaikjq6mtljelj8sv1ifs7pdt9gbndg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
